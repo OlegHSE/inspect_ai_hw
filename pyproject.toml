@@ -8,8 +8,10 @@ dependencies = [
     "datasets>=4.8.4",
     "inspect-ai>=0.3.199",
     "ipywidgets>=8.1.8",
+    "latex2sympy2>=1.9.1",
     "matplotlib>=3.10.8",
     "openai>=2.29.0",
     "pandas>=2.3.3",
     "scipy>=1.15.3",
+    "sympy>=1.14.0",
 ]
